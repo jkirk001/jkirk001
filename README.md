@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkirk001
-- 👀 React, Node, MongoDB, JS, Python
-- 🌱 Next.js, Django, Typescript
+- 👀 React, Next.js, Node, MongoDB, JS, Python, Django
+- 🌱 Typescript, webpack
 
 - 📫 jone.kirkpatrick@gmail.com
 
